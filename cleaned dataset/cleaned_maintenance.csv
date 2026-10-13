@@ -1,0 +1,26 @@
+facility,issue,downtime
+C101,Projector failure,6.0
+C102,Air conditioning issue,10.0
+C103,Lighting failure,4.0
+C201,Network issue,8.0
+C202,Air conditioning issue,12.0
+C203,Unknown Issue,5.0
+LAB101,Computer failure,15.0
+LAB102,Ventilation issue,9.0
+LAB201,Network issue,0.0
+LAB202,Equipment failure,20.0
+LAB301,Unknown Issue,0.0
+LIB01,HVAC maintenance,18.0
+LIB02,Lighting failure,6.0
+AUD01,Audio system failure,8.0
+SEM01,Unknown Issue,4.0
+H101,Furniture repair,0.0
+H102,Electrical issue,7.0
+SPORT01,Floor maintenance,24.0
+MEET01,Projector failure,3.0
+MEET02,Unknown Issue,0.0
+C101,Door repair,2.0
+LAB301,Equipment calibration,11.0
+LIB01,Internet outage,5.0
+AUD01,Unknown Issue,0.0
+H102,Furniture repair,6.0

@@ -1,0 +1,21 @@
+facility,type,capacity,block
+C101,Classroom,60,Block A
+C102,Classroom,50,Block A
+C103,Classroom,40,Block A
+C201,Classroom,70,Block B
+C202,Classroom,60,Block B
+C203,Classroom,45,Block B
+LAB101,Laboratory,40,Block A
+LAB102,Laboratory,35,Block A
+LAB201,Laboratory,50,Block B
+LAB202,Laboratory,45,Block B
+LAB301,Laboratory,60,Block C
+LIB01,Library,120,Block C
+LIB02,Library,80,Block C
+AUD01,Auditorium,300,Block C
+SEM01,Seminar Hall,150,Block C
+H101,Common Facility,80,Block A
+H102,Common Facility,60,Block B
+SPORT01,Common Facility,100,Block D
+MEET01,Meeting Room,20,Block A
+MEET02,Meeting Room,25,Block B
